@@ -1,0 +1,13 @@
+IP Addresses :
+
+185.7.214[.]104
+45.32.156[.]66
+94.16.116[.]81
+18.233.204[.]205
+88.119.174[.]84
+159.69.146[.]192
+
+
+
+The final line of k.bat was the following:
+C:\Windows\hive.exe -u REDACTED -no-discovery
